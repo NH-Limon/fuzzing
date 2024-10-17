@@ -10,7 +10,7 @@ wp-admin/admin-functions.php
 wp-admin/admin-header.php
 wp-admin/admin.php
 wp-admin/admin-post.php
-wp-config.php.save
+p-config.php.save
 wp-admin/async-upload.php
 wp-admin/bookmarklet.php
 wp-admin/categories.js
